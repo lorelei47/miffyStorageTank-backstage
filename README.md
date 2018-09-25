@@ -3,7 +3,7 @@
 ## 相关文档
 
 ### springboot
-> * [官网](http://spring.io/projects/spring-boot)
+> * [官方文档](http://spring.io/projects/spring-boot)
 
 ### mybatis
-> * [官网](http://www.mybatis.org/mybatis-3/zh/index.html)
+> * [官方文档](http://www.mybatis.org/mybatis-3/zh/index.html)
